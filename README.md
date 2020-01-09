@@ -4,6 +4,7 @@ Everything I dont want to forget ( and i'm too lazy to write down in a notebook 
 ## All about REST 
 * The [Richardson Maturity Model ](https://martinfowler.com/articles/richardsonMaturityModel.html), simple recipy to create mature Rest Service
 * The [YARAS](https://github.com/darrin/yaras/blob/master/restful-standards.md) *Yet another RestFull Api Standart*
+* A nice overlay of swagger documentation [Redoc](https://github.com/Redocly/redoc)
 
 ## Git
 * A very good interactive website to [learn git safely](https://learngitbranching.js.org/)
